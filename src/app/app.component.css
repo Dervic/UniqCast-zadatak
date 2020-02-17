@@ -1,0 +1,19 @@
+table {
+  width: 70%;
+  margin-left: 20rem;
+  margin-top: 4rem;
+}
+
+.button-row {
+  margin-left: 105rem;
+  margin-top: 4rem;
+}
+
+button {
+  margin: 8px;
+}
+
+.mat-green {
+  background-color: green;
+  color: #fff;
+}
